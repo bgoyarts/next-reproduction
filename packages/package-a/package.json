@@ -1,5 +1,5 @@
 {
-  "name": "package-a",
+  "name": "@bgoyarts/package-a",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",

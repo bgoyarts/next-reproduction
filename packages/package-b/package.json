@@ -1,5 +1,5 @@
 {
-  "name": "package-b",
+  "name": "@bgoyarts/package-b",
   "version": "1.0.1",
   "main": "index.js",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "url": "ssh://git@github.com/bgoyarts/next-reproduction.git"
   },
   "dependencies": {
-    "package-a": "^1.0.1"
+    "@bgoyarts/package-a": "^1.0.1"
   },
   "gitHead": "8ca500bf1c31c84070a0c970d9c8cfd466be5e2c"
 }

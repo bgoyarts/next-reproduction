@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 
-import { name } from 'package-b'
+import { name } from '@bgoyarts/package-b'
 
 export default function Home() {
   return (

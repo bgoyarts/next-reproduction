@@ -928,11 +928,6 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@my-scope/package-b@file:packages/package-b":
-  version "1.0.0"
-  dependencies:
-    "@my-scope/package-a" "1.0.0"
-
 "@next/env@10.0.6-canary.0":
   version "10.0.6-canary.0"
   resolved "https://registry.yarnpkg.com/@next/env/-/env-10.0.6-canary.0.tgz#e18a7cb6c3217894ef61e0e80be0b40027bc0903"
