@@ -10,7 +10,7 @@
     "clean": "rimraf .next"
   },
   "dependencies": {
-    "next": "file:/home/bas/dev/next.js/packages/next",
+    "next": "11.0.1",
     "@bgoyarts/package-b": "1.0.1",
     "react": "17.0.2",
     "react-dom": "17.0.2"
