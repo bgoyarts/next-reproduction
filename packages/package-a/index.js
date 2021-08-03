@@ -1,0 +1,3 @@
+
+
+exports.name = 'package-a'

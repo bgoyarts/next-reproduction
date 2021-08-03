@@ -1,0 +1,13 @@
+{
+  "name": "repro-require",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*",
+    "my-app"
+  ],
+  "devDependencies": {
+    "lerna": "^3.4.3"
+  }
+}
