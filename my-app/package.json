@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "next": "file:/home/bas/dev/next.js/packages/next",
+    "package-b": "file:/home/bas/dev/repro-require/packages/package-b",
     "react": "17.0.2",
-    "react-dom": "17.0.2",
-    "package-b": "file:/home/bas/dev/repro-require/packages/package-b"
+    "react-dom": "17.0.2"
   },
   "devDependencies": {
     "eslint": "7.32.0",
