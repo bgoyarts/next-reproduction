@@ -9,7 +9,21 @@
 /coverage
 
 # next.js
-/.next/
+!.next/
+/.next/*
+
+!/.next/server
+/.next/server/*
+
+!/.next/server/pages
+
+/.next/server/pages/*.js
+!/.next/server/pages/index.js
+
+
+# /.next/
+# !/.next/server/
+
 /out/
 
 # production
